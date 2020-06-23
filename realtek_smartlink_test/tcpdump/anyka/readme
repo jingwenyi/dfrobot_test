@@ -1,0 +1,4 @@
+#build
+
+
+./configure  CC=arm-none-linux-gnueabi-gcc  --host=arm-none-linux-gnueabi

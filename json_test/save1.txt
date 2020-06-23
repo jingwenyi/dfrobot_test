@@ -1,0 +1,81 @@
+{
+   "signatures" : [
+      {
+         "lable" : 1,
+         "m_rgb" : 1,
+         "m_type" : 1,
+         "m_uMax" : 1,
+         "m_uMean" : 1,
+         "m_uMin" : 1,
+         "m_vMax" : 1,
+         "m_vMean" : 1,
+         "m_vMin" : 1
+      },
+      {
+         "lable" : 2,
+         "m_rgb" : 2,
+         "m_type" : 2,
+         "m_uMax" : 2,
+         "m_uMean" : 2,
+         "m_uMin" : 2,
+         "m_vMax" : 2,
+         "m_vMean" : 2,
+         "m_vMin" : 2
+      },
+      {
+         "lable" : 3,
+         "m_rgb" : 3,
+         "m_type" : 3,
+         "m_uMax" : 3,
+         "m_uMean" : 3,
+         "m_uMin" : 3,
+         "m_vMax" : 3,
+         "m_vMean" : 3,
+         "m_vMin" : 3
+      },
+      {
+         "lable" : 4,
+         "m_rgb" : 4,
+         "m_type" : 4,
+         "m_uMax" : 4,
+         "m_uMean" : 4,
+         "m_uMin" : 4,
+         "m_vMax" : 4,
+         "m_vMean" : 4,
+         "m_vMin" : 4
+      },
+      {
+         "lable" : 5,
+         "m_rgb" : 5,
+         "m_type" : 5,
+         "m_uMax" : 5,
+         "m_uMean" : 5,
+         "m_uMin" : 5,
+         "m_vMax" : 5,
+         "m_vMean" : 5,
+         "m_vMin" : 5
+      },
+      {
+         "lable" : 6,
+         "m_rgb" : 6,
+         "m_type" : 6,
+         "m_uMax" : 6,
+         "m_uMean" : 6,
+         "m_uMin" : 6,
+         "m_vMax" : 6,
+         "m_vMean" : 6,
+         "m_vMin" : 6
+      },
+      {
+         "lable" : 7,
+         "m_rgb" : 7,
+         "m_type" : 7,
+         "m_uMax" : 7,
+         "m_uMean" : 7,
+         "m_uMin" : 7,
+         "m_vMax" : 7,
+         "m_vMean" : 7,
+         "m_vMin" : 7
+      }
+   ]
+}

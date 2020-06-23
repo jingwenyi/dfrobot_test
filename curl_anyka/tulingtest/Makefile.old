@@ -1,0 +1,10 @@
+
+
+
+all:
+	g++ maintuling_test.c dfrobot_tuling.c  -o  testtuling   -L./ -lcurl  -I../curl-7.49.1/include/
+
+
+
+clean:
+	rm -rf testtuling

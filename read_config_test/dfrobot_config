@@ -1,0 +1,13 @@
+#
+# dfrobot config
+#
+
+
+#board name
+name=dfrobot0
+
+
+
+#wifi status mode set
+ssid   =    jingwenyhi
+password=123456

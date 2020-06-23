@@ -1,0 +1,2 @@
+
+./configure  --host=arm-none-linux-gnueabi  --prefix=/source/anyka/curl  --with-ssl=/source/anyka/openssl --with-zlib=/source/anyka/zlib  --enable-static

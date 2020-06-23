@@ -1,0 +1,9 @@
+pc:
+./configure --prefix=/source/pc/zlib
+
+
+anyka:
+export CC=arm-none-linux-gnueabi-gcc
+./configure   --prefix=/source/anyka/zlib
+
+

@@ -1,0 +1,8 @@
+
+anyka:
+export CC=arm-none-linux-gnueabi-gcc 
+./config no-asm shared --prefix="/source/anyka/openssl"
+
+
+pc: 
+./config no-asm shared --prefix="/source/pc/openssl"  
